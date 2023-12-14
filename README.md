@@ -10,7 +10,7 @@ The National Household Sample Survey - PNAD investigates annually, on a permanen
 ## 🚀 Starting
 
 At the link below you can obtain a copy of the project:
-* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_language/archive/refs/heads/main.zip)
+* [copy of the project](https://github.com/OtnielGomes/Statistics_with_R_language_Sample/archive/refs/heads/main.zip)
 
 ## 🛠️ Built with:
 
@@ -22,9 +22,10 @@ At the link below you can obtain a copy of the project:
 * Dplyr
 * Glue
 * GGplot2
+* DescTools
 
 ## ⚙️ Running the code:
 
 ### Start with the Notebook:
-* [Statistics_with_R_Descriptive_Analysis](https://github.com/OtnielGomes/Statistics_with_R_language/blob/main/Statistics_with_R_Descriptive_Analysis.ipynb)
+* [Statistics_with_R_Probability_And_Sampling](https://github.com/OtnielGomes/Statistics_with_R_language_Sample/blob/main/Statistics_with_R_Probability_And_Sampling.ipynb)
 
